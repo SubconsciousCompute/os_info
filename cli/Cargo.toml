@@ -1,6 +1,6 @@
 [package]
 name = "os_info_cli"
-version = "2.0.1-rc.1"
+version = "2.0.1"
 authors = ["Stanislav Tkach <stanislav.tkach@gmail.com>"]
 description = "Detect the operating system type and version."
 documentation = "https://docs.rs/os_info"
